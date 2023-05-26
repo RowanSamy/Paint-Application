@@ -4,5 +4,5 @@
 2- Fill shape.\
 3- Re-size the drawn paint ( whether smaller or larger).\
 3- Copy, Delete, Undo and redo.\
-5- Saving all changes.\
+5- Saving all changes.
 
